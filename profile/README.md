@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="profile/banner.png?raw=true" width="100%">
-</p>
+# Machine Learning in Science
 
 Our goal is to accelerate scientific discovery using machine learning and artificial intelligence: We develop computational methods that help scientists interpret empirical data and use them gain scientific insights.
 
