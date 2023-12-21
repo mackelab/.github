@@ -6,4 +6,7 @@ We closely collaborate with experimental researchers from various disciplines. W
 
 We are part of the [Excellence Cluster Machine Learning Tübingen](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/machine-learning-in-science/) and the [Tübingen AI Center](https://tuebingen.ai). You can find out more about us on [our lab website](https://www.mackelab.org).
 
-In addition to the repositories in this organization, (former) lab members have also developed the following toolboxes: [sbi](https://github.com/sbi-dev), [DECODE](https://github.com/TuragaLab/DECODE), [sbibm](https://github.com/sbi-benchmark).
+In addition to the repositories in this organization, (former) lab members have also developed the following toolboxes:  
+- [sbi](https://github.com/sbi-dev), a toolbox for simulation-based inference  
+- [DECODE](https://github.com/TuragaLab/DECODE), a deep learning tool for single molecule localization microscopy  
+- [sbibm](https://github.com/sbi-benchmark), a benchmark for simulation-based inference  
