@@ -1,6 +1,6 @@
 # Machine Learning in Science
 
-Our goal is to accelerate scientific discovery using machine learning and artificial intelligence: We develop computational methods that help scientists interpret empirical data and use them gain scientific insights.
+Our goal is to accelerate scientific discovery using machine learning and artificial intelligence: We develop computational methods that help scientists interpret empirical data and use them to gain scientific insights.
 
 We closely collaborate with experimental researchers from various disciplines. We are particularly interested in applications in the neurosciences: We build data-driven mechanistic models of neuronal functions in order to understand how neuronal networks in the brain process sensory information and control intelligent behaviour.
 
